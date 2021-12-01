@@ -38,7 +38,7 @@
 		4.6.2 - Criar um impacto quando acertar o inimigo - pronto;
 		4.6.3 - Fazendo o impacto desaparecer - pronto;
 		4.6.4 - fazer o tiro não criar o impacto ao acertar a tela - pronto;
-		4.6.5 - deixando o tiro mais bonito;
+		4.6.5 - deixando o tiro mais bonito - pronto;
 		
 5- Fazendo o tiro do player acertar o inimigo
 	5.1 - Se destruir ao acertar o inimigo - pronto
@@ -48,10 +48,11 @@
 
 6- Background
 	6.2 - Criando um background - pronto;
-	6.2 - Deixando o nosso background mais bonito - feito;
+	6.2 - Deixando o nosso background mais bonito - pronto;
 
 Pequenos ajuster 01
 	Inimigo se destruir ao sair da tela - pronto; 
-
-
+	Deixando as explosões mais bonitas - pronto;
+	Deixando as explosões dos inimigos mais bonitas - pronto;
+		
 (Criação de métodos)
