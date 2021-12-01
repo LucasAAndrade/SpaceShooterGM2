@@ -1,0 +1,9 @@
+1- Player 
+	1.1 Criando o nosso player - pronto;
+	1.2 Exportando Sprites - pronto;
+	1.3 Movendo player com o WASD dentro do step - pronto;
+	1.4 Melhorando o código de movimentação - pronto;
+	
+2- Room
+	2.1 Ajustando as dimensões da room sua visualzação e seu viewport - pronto;
+	
