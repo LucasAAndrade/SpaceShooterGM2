@@ -21,6 +21,7 @@
 		3.7.2 - Exportando o sprite da explosão;
 		3.7.3 - fazendo o inimigo instanciar a explosão ao morrer - pronto;
 		3.7.4 - fazer a explosão se destruir ao final da animação - pronto;
+	3.8 Deixando o tiro mais bonito - pronto;
 		
 4- Ininimigo 01 
 	4.1 Criando o inimigo - pronto;
@@ -37,12 +38,20 @@
 		4.6.2 - Criar um impacto quando acertar o inimigo - pronto;
 		4.6.3 - Fazendo o impacto desaparecer - pronto;
 		4.6.4 - fazer o tiro não criar o impacto ao acertar a tela - pronto;
+		4.6.5 - deixando o tiro mais bonito;
 		
 5- Fazendo o tiro do player acertar o inimigo
 	5.1 - Se destruir ao acertar o inimigo - pronto
 	5.2 - Criar um impacto quando acertar o inimigo - pronto;
 	5.3 - Fazendo o impacto desaparecer - pronto;
 	5.4 - fazer o tiro não criar o impacto ao acertar a tela - pronto;
+
+6- Background
+	6.2 - Criando um background - pronto;
+	6.2 - Deixando o nosso background mais bonito - feito;
+
+Pequenos ajuster 01
+	Inimigo se destruir ao sair da tela - pronto; 
 
 
 (Criação de métodos)
