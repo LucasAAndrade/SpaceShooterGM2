@@ -13,10 +13,18 @@
 	3.3 Fazendo o tiro ir para cima - pronto;
 	3.4 Criando o objeto tiro - pronto;
 	3.5 Dando um efeito para o tiro - feito;
-		3.5.1 - Fazendo ele nascer grande e diminuir com o tempo - feito;
-	3.6 Destruindo o tiro - feito;
+		3.5.1 - Fazendo ele nascer grande e diminuir com o tempo - pronto;
+	3.6 Destruindo o tiro - pronto;
 	
-4- Ininimigo
-	4.1 Criando o inimigo - 
-	4.2 Exportando sua sprite - 
-	4.3 Fazendo ele ir para baixo - 
+4- Ininimigo 01 
+	4.1 Criando o inimigo - pronto;
+	4.2 Exportando sua sprite - pronto;
+	4.3 Fazendo ele ir para baixo - pronto;
+	4.4 Inimigo 01 atirando - pronto
+		4.4.1 Criando o tiro 01 - pronto;
+		4.4.2 Criando o sprite do tiro - pronto;
+		4.4.3 Tiro surgindo do inimigo - pronto;
+		4.4.4 Efeito do tiro - pronto;
+	4.5 Atirando apenas quando está na tela - pronto;
+	
+(Criação de métodos)
