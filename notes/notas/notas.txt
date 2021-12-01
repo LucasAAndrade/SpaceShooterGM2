@@ -6,4 +6,17 @@
 	
 2- Room
 	2.1 Ajustando as dimensões da room sua visualzação e seu viewport - pronto;
+
+3- Tiro
+	3.1 Criando o tiro - pronto;
+	3.2 Exportando a Sprite do tiro - pronto; 
+	3.3 Fazendo o tiro ir para cima - pronto;
+	3.4 Criando o objeto tiro - pronto;
+	3.5 Dando um efeito para o tiro - feito;
+		3.5.1 - Fazendo ele nascer grande e diminuir com o tempo - feito;
+	3.6 Destruindo o tiro - feito;
 	
+4- Ininimigo
+	4.1 Criando o inimigo - 
+	4.2 Exportando sua sprite - 
+	4.3 Fazendo ele ir para baixo - 
