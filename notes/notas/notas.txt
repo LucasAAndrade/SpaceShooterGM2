@@ -49,7 +49,19 @@
 6- Background
 	6.2 - Criando um background - pronto;
 	6.2 - Deixando o nosso background mais bonito - pronto;
-
+	
+7- Segundo inimigo
+	7.1 Criando o segundo inimigo - pronto;
+	7.2 Exportando a sprite - pronto; 
+	7.3 Criando o sistema de herança - pronto;
+	7.4 Mudando a direção de seu movimento - 
+		7.4.1 Checando o lado da room - pronto
+		7.4.2 Mudando a direção do movimento - pronto;
+		7.4.3 Mudando de direção apenas uma vez - 
+		
+		
+		
+		
 Pequenos ajuster 01
 	Inimigo se destruir ao sair da tela - pronto; 
 	Deixando as explosões mais bonitas - pronto;
