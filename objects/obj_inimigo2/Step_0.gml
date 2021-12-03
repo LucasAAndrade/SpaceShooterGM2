@@ -1,15 +1,12 @@
 // herdando o evento de seu pai
 event_inherited();
 //mudando a direção de seu movimento
-if(x > room_width/2){
-	if(y > room_height/3){
-		hspeed = -3;
-	}
+if(y > room_width/3 && posso_mudar_de_direcao == true){
+	if(x > room_height/2){	
+		hspeed = -4;
+		posso_mudar_de_direcao = false;
+	} else{
+		hspeed = 4;
+		posso_mudar_de_direcao = false;
+	  }
 }
-
-if(x < room_width/2){
-	if(y > room_height/3){
-		hspeed = 3;
-	}
-}	
-

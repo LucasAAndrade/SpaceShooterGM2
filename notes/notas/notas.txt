@@ -57,8 +57,16 @@
 	7.4 Mudando a direção de seu movimento - 
 		7.4.1 Checando o lado da room - pronto
 		7.4.2 Mudando a direção do movimento - pronto;
-		7.4.3 Mudando de direção apenas uma vez - 
-		
+		7.4.3 Mudando de direção apenas uma vez - pronto;
+	7.5 Fazendo o inimigo criar o próprio tiro - 
+		7.5.1 - Criando o tiro - pronto;
+		7.5.2 - Exportando a sprite - pronto;
+		7.5.3 - Herdando os eventos do tiro 1 - pronto;
+		7.5.4 - Seguindo o player - pronto;
+		7.5.5 - Apontando para o player - pronto;
+		7.5.6 - Checando a existencia do player - pronto;
+
+8- Criando o objeto controler
 		
 		
 		
