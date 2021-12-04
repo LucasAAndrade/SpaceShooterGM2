@@ -92,15 +92,16 @@
 	10.4 - Dobrando o os pontos necessários para passar de level - pronto;
 	
 11 - PowerUps 
-	11.1 - Segundo tiro
+	11.1 - Segundo tiro - pronto;
 		11.1.1 - Criando o segundo tiro - pronto;
 		11.1.2 - Exportando o segundo tiro - pronto;
 		11.1.3 - Herdar a características do tiro - pronto;
 		11.1.4 - Criar o segundo tiro - pronto
 		11.1.5 - Melhorando os efeitos do tiro 2 - pronto;
 		11.1.6 - Criando dois tiros - pronto;
-		11.1.7 - fazendo zigzague -;		
-		
+		11.1.7 - fazendo zigzague - pronto;
+	11.2 - Terceiro level - pronto
+		11.2.1 - Criando o tiro 1 e o tiro 2 - 
 		
 Pequenos ajuster 01
 	Inimigo se destruir ao sair da tela - pronto; 
