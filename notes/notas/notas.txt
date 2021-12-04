@@ -22,6 +22,10 @@
 		3.7.3 - fazendo o inimigo instanciar a explosão ao morrer - pronto;
 		3.7.4 - fazer a explosão se destruir ao final da animação - pronto;
 	3.8 Deixando o tiro mais bonito - pronto;
+	3.9 Deixando o tiro do player automático -
+		3.9.1 Criando o evento para o tiro - pronto;
+		3.9.2 Criando o sistema de leveis para tiro - pronto;
+		
 		
 4- Ininimigo 01 
 	4.1 Criando o inimigo - pronto;
@@ -58,7 +62,7 @@
 		7.4.1 Checando o lado da room - pronto
 		7.4.2 Mudando a direção do movimento - pronto;
 		7.4.3 Mudando de direção apenas uma vez - pronto;
-	7.5 Fazendo o inimigo criar o próprio tiro - 
+	7.5 Fazendo o inimigo criar o próprio tiro - pronto;
 		7.5.1 - Criando o tiro - pronto;
 		7.5.2 - Exportando a sprite - pronto;
 		7.5.3 - Herdando os eventos do tiro 1 - pronto;
@@ -66,7 +70,31 @@
 		7.5.5 - Apontando para o player - pronto;
 		7.5.6 - Checando a existencia do player - pronto;
 
-8- Criando o objeto controler
+8- Criando proceduralmente os inimigos
+	8.1 - Criando um objeto controlador - pronto;
+	8.2 - Fazer com que o objeto controlador crie inimigos - pronto;
+	8.3 - Fazendo que a posição dos inimigos seja aleatória - pronto;
+	8.4 - Criando inimigos diferentes de acordo com o nivel - pronto;
+	8.5 - Criando waves de inimigos - pronto;
+	8.6 - Criando as waves apenas se não tiverem mais inimigos na tela - feito;
+	8.7 - Criar mais inimigos com base no level - feito;
+	8.8 - Impedindo que os inimigos sejam criados no mesmo lugar - feito;
+	
+9- Criando o sistemas de pontos
+	9.1 - Criando a variável pontos - pronto;
+	9.2 - Ganhando pontos ao destruir os inimigos - pronto;
+	9.3 - Fazendo com que inimigos diferentes ganhe pontos diferentes - pronto;
+		
+10- Criando um sistema de level
+	10.1 - Iniciando o sistema de level - pronto;
+	10.2 - Exibindo o level - pronto;
+	10.3 - Ganhando level - pronto;
+	10.4 - Dobrando o os pontos necessários para passar de level - pronto;
+	
+11 - PowerUps 
+	11.1 - Segundo tiro
+		11.1.1 - Criando o segundo tiro - pronto;
+		11.1.2 - Exportando o segundo tiro - pronto;
 		
 		
 		
