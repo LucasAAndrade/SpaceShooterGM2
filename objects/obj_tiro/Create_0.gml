@@ -1,3 +1,6 @@
+//variável para tiro
+brilho = spr_brilho2
+
 //Variáveis do tiro
 
 vspeed = -10;
