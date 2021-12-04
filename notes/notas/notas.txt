@@ -23,9 +23,8 @@
 		3.7.4 - fazer a explosão se destruir ao final da animação - pronto;
 	3.8 Deixando o tiro mais bonito - pronto;
 	3.9 Deixando o tiro do player automático -
-		3.9.1 Criando o evento para o tiro - pronto;
-		3.9.2 Criando o sistema de leveis para tiro - pronto;
-		
+		3.9.1 - Criando o evento para o tiro - pronto;
+		3.9.2 - Criando o sistema de leveis para tiro - pronto;
 		
 4- Ininimigo 01 
 	4.1 Criando o inimigo - pronto;
@@ -101,11 +100,50 @@
 		11.1.6 - Criando dois tiros - pronto;
 		11.1.7 - fazendo zigzague - pronto;
 	11.2 - Terceiro level - pronto
-		11.2.1 - Criando o tiro 1 e o tiro 2 - 
-		
+		11.2.1 - Criando o tiro 1 e o tiro 2 - pronto;
+		11.2.2 - Criando o tiro 3, tiro 4 e o tiro 5 - pronto;
+	11.3 Criando o powerUp
+		11.3.1 - Criando o PowerUp - pronto;
+		11.3.2 - Exportando o Sprite do PowerUp - pronto;
+		11.3.3 - Criando o sistema de chances para cada powerUp - pronto;
+		11.3.4 - Criando o sistema de colisão - pronto;
+		11.3.4 - Dando efeito ao powerUp - pronto;
+	11.4 - Criando uma chance de dropar o powerup - pronto;
+	11.5 - Fazendo o tiro se mover - pronto;
+	11.6 - Criando um efeito - pronto;
+	11.7 - Mudando sua cor dependendo da chance - pronto;
+	11.8 - Impedindo de sair da tela - pronto;
+	11.9 - Fazendo o powerUp sumir sozinho - pronto;
+	
+12 - Escudo do Player
+	12.1 - Criar Escudo - pronto; 
+	12.2 - Exportar o sprite - pronto;
+	12.3 - Criando o escudo quando apertar E - pronto;
+	12.4 - Criar uma layer para o escudo - pronto;
+	12.5 - Seguir o jogador - pronto;
+	12.6 - Corrigindo o delay do escudo - pronto;
+	12.7 - Tiro do inimigos se destruindo ao acertar o escudo - pronto;
+	12.8 - Destruindo os inimigos - pronto;
+	12.9 - Deixando o escudo um pouco maior - pronto;
+	12.10 - Animando o escudo
+		12.10.1 - Parando a animação assim que termina-la - pronto;
+		12.10.2 - Voltar a imagem depois de um tempo - pronto;
+	12.11 - Colocando Efeitos no escudo - pronto;
+
+13 - Matando o Player
+	13.1 - Dando vida ao player - pronto;
+	13.2 - Tirando vida do player - pronto;
+	13.3 - Morrer - pronto;
+	13.4 - Criar a explosão ao morrer - pronto;
+	13.5 - Exibir a vida do player - pronto;
+	13.6 - Exibir a quantidade de vidas - pronto;
+	13.7 - Criar a tela de game over -
+
 Pequenos ajuster 01
 	Inimigo se destruir ao sair da tela - pronto; 
 	Deixando as explosões mais bonitas - pronto;
 	Deixando as explosões dos inimigos mais bonitas - pronto;
-		
-(Criação de métodos)
+
+Ajustes Gerais 02
+	Ajustes de colisão - pronto;
+	Colisão com o inimigo - pronto;

@@ -7,3 +7,5 @@ instance_create_layer(x,y, "Player", obj_impacto_inimigo);
 if(instance_exists(obj_controlador)){
 obj_controlador.ganhar_pontos(ponts);
 }
+
+dropa_item(chance1);

@@ -1,6 +1,9 @@
 //variável de pontos
 ponts = 10;
 
+//Chance de dropar o item é 
+chance1 = 20;
+
 // Variáveis do inimigo
 
 vspeed = 3;
@@ -16,5 +19,13 @@ if(place_meeting(x, y, obj_inimigo)){
 inimigo_Atirando = function(){
 	if(y >= 28){
 	instance_create_layer(x - 3, y + sprite_height/3, "Tiros", obj_tiro_inimigo);
+	}
+}
+
+dropa_item = function(_chance){
+	
+	var valor = random(100);
+	if(valor < _chance){
+		instance_create_layer(x,y, "Tiros", obj_powerUp);
 	}
 }

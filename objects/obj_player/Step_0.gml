@@ -1,12 +1,12 @@
 // Criando a movimentação do player
 	
 //criando varíaveis para checar se estão ou não apertando o botão
-var up, down, left, right;
+var up, down, left, right, shield;
 up = keyboard_check(ord("W"));
 down = keyboard_check(ord("S"));
 left = keyboard_check(ord("A"));
 right = keyboard_check(ord("D"));
-
+shield = keyboard_check_pressed(ord("E"));
 
 //movendo o y com base no resultado da conta dos booleans
 y += (down - up) * velocidade;
@@ -33,5 +33,24 @@ if(keyboard_check_pressed(vk_down)){
 	}
 }
 
+if(keyboard_check_pressed(vk_left)){
+	//diminuir o tempo do tiro
+	if(level_tiro > 20){
+		espera_tiro *= 0.9;
+	}
+}
+
+if(keyboard_check_pressed(vk_right)){
+	//aumentar o tempo do tiro
+	if(level_tiro > 1){
+		espera_tiro *= 1.1;
+	}
+}
+
+if(shield){
+	var escudo = instance_create_layer(x,y, "Escudo", obj_escudo)
+	escudo.alvo = id;
+}
 
 show_debug_message(level_tiro);
+show_debug_message(espera_tiro);

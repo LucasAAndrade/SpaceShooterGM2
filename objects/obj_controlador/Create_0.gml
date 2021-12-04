@@ -1,3 +1,5 @@
+//sistema de vida
+
 //Iniciando o alarm
 alarm[0] = room_speed;
 
