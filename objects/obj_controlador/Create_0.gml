@@ -1,10 +1,10 @@
 //sistema de vida
-
+game_over_sec = noone;
 //Iniciando o alarm
 alarm[0] = room_speed;
 
 //variável level
-level = 1;
+level = 10;
 
 //Iniciando o sistema de pontos
 pontos = 0;
@@ -29,7 +29,8 @@ pontos += _ponts;
 cria_inimigo = function(){
 	//criando valores aleatórios para o x e y	
 	var x1 = irandom_range(64, 1888); 
-	var y1 = irandom_range(-96, -1504); 
+	//aumentando o meu limite com base no level 
+	var y1 = irandom_range(-96, -1504 - (level * 700)); 
 	
 	//criando o inimigo com base no level
 	var chance = random_range(0, level)

@@ -137,7 +137,12 @@
 	13.4 - Criar a explosão ao morrer - pronto;
 	13.5 - Exibir a vida do player - pronto;
 	13.6 - Exibir a quantidade de vidas - pronto;
-	13.7 - Criar a tela de game over -
+	13.7 - Criar a tela de game over - pronto;
+	13.8 - Criando a tela quando o player morrer - pronto;
+	13.9 - Reiniciar ao apertar Enter - pronto;
+
+14 - ScreenShake
+	
 
 Pequenos ajuster 01
 	Inimigo se destruir ao sair da tela - pronto; 
@@ -147,3 +152,5 @@ Pequenos ajuster 01
 Ajustes Gerais 02
 	Ajustes de colisão - pronto;
 	Colisão com o inimigo - pronto;
+	Ajustando a trasparencia do powerUp - pronto;
+	Melhorando a dispersão dos inimigos - 
