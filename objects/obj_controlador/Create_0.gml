@@ -1,10 +1,13 @@
+//deixando o jogo random
+randomize();
+
 //sistema de vida
 game_over_sec = noone;
 //Iniciando o alarm
 alarm[0] = room_speed;
 
 //variável level
-level = 10;
+level = 1;
 
 //Iniciando o sistema de pontos
 pontos = 0;
@@ -16,7 +19,7 @@ proximo_level = 100;
 ///@method ganhar_pontos(ponts)
 ganhar_pontos = function(_ponts){
 
-pontos += _ponts;
+pontos += _ponts * level;
 
 	if(pontos > proximo_level){
 		level++;

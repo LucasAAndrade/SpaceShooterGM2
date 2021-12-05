@@ -1,10 +1,12 @@
 // Iniciando as variáveis 
 
+escudow = 3;
+
 vida = 3;
 
 velocidade = 5;
 
-espera_tiro = room_speed ;
+espera_tiro = room_speed;
 
 level_tiro = 1;
 
@@ -67,16 +69,25 @@ level_up = function(_chance, _color){
 		if(level_tiro < 5){
 		level_tiro++;
 		_color = c_red; 
+		}else{
+			ganhando_pontos(100);
 		}
-	}else if(_chance >= 45 && _chance < 90){
-		if(level_tiro > 20){
+	} 
+	else if(_chance >= 45)
+	{
+		if(espera_tiro > 15)
+		{
 			espera_tiro *= 0.9;
 			_color = c_lime; 
-		}
+		}else{
+			ganhando_pontos(100);
+		 }
 	}else{
 		if(velocidade < 10){
 			velocidade += 0.5;
 			color = c_aqua; 
+		}else{
+			ganhando_pontos(100);
 		}
 	}
 }
@@ -85,7 +96,10 @@ level_up = function(_chance, _color){
 perde_vida = function(){
 	if(vida > 0){
 		vida -= 1;
+		screenshake(5);
 	}else{
+		screenshake(25);
 		instance_destroy();
 	}
 }
+

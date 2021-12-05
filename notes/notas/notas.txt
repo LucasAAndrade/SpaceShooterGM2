@@ -129,6 +129,7 @@
 		12.10.1 - Parando a animação assim que termina-la - pronto;
 		12.10.2 - Voltar a imagem depois de um tempo - pronto;
 	12.11 - Colocando Efeitos no escudo - pronto;
+	12.12 - Exibindo os escudos - pronto;
 
 13 - Matando o Player
 	13.1 - Dando vida ao player - pronto;
@@ -142,6 +143,14 @@
 	13.9 - Reiniciar ao apertar Enter - pronto;
 
 14 - ScreenShake
+	14.1 - Criar um objeto para fazer o ScreenShake - pronto;
+	14.2 - Fazendo a tela tremer - pronto;
+	14.3 - Enfraquecendo o screenshake - pronto;
+	14.4 - Destruindo o valor do shake - pronto;
+	14.5 - Garantindo que o viewport volte ao local original - pronto;
+	14.6 - Criando o ScreenShake sempre que um inimigo for destruido - pronto;
+	14.7 - Criando um ScreenShake para o player;
+
 	
 
 Pequenos ajuster 01
@@ -153,4 +162,9 @@ Ajustes Gerais 02
 	Ajustes de colisão - pronto;
 	Colisão com o inimigo - pronto;
 	Ajustando a trasparencia do powerUp - pronto;
-	Melhorando a dispersão dos inimigos - 
+	Melhorando a dispersão dos inimigos - pronto;
+	Randomizando o jogo - pronto;
+	Impedindo o player saindo ta tela - pronto;
+	Fazendo os inimigos doprarem o item depois de certa posição - pronto; 
+	Ganhando nivel de forma mais rápida - pronto;
+	Ganhar pontos caso o player pegue o powerUp e já esteja no máximo - 

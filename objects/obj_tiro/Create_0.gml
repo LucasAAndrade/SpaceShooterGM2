@@ -3,7 +3,7 @@ brilho = spr_brilho2
 
 //Variáveis do tiro
 
-vspeed = -10;
+vspeed = -15;
 
 // variáveis de efeito
 image_xscale = 3;

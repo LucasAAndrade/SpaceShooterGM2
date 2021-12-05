@@ -47,10 +47,17 @@ if(keyboard_check_pressed(vk_right)){
 	}
 }
 
-if(shield){
+if(shield && escudow > 0){
 	var escudo = instance_create_layer(x,y, "Escudo", obj_escudo)
 	escudo.alvo = id;
+	escudow--;
 }
+
+//colocando o player na tela
+if(x <= 64) x = 64;
+if(x >= 1856) x = 1856;
+if(y <= 64) y = 64;
+if(y >= 1024) y = 1024;
 
 show_debug_message(level_tiro);
 show_debug_message(espera_tiro);
