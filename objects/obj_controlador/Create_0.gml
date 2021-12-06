@@ -1,19 +1,27 @@
 //deixando o jogo random
 randomize();
 
+
 //sistema de vida
 game_over_sec = noone;
+
+//playerVivo
+player_vivo = false;
+
 //Iniciando o alarm
 alarm[0] = room_speed;
 
 //variável level
-level = 1;
+level = 10;
 
 //Iniciando o sistema de pontos
 pontos = 0;
 
 //quantos pontos são necessários para o proximo level
-proximo_level = 100;
+proximo_level = 1;
+
+//controle boss
+criar_boss = true;
 
 //Criando um metódo para ganhar pontos
 ///@method ganhar_pontos(ponts)

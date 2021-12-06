@@ -11,3 +11,18 @@ function ganhando_pontos(_pontos){
 			obj_controlador.ganhar_pontos(_pontos);
 		}
 }
+
+function destroi_seq(){
+	var elementos = layer_get_all_elements("Boss_entrada");
+	layer_sequence_destroy(elementos[0]);
+	instance_create_layer(960, 300,"Boss", obj_boss);
+}
+
+function cria_seq(){
+	layer_sequence_create("Sequences",obj_player.x, obj_player.y, sq_levelEnd);
+	instance_destroy(obj_player, false);
+	if(instance_exists(obj_controlador))
+	{
+		obj_controlador.player_vivo = true;
+	}
+}

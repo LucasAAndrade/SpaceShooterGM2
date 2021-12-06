@@ -1,5 +1,4 @@
 // Reiniciando a room
-if(!instance_exists(obj_player)){
-
+if(game_over_sec){
 	room_restart();
 }

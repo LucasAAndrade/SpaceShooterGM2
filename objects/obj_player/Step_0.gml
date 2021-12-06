@@ -1,13 +1,11 @@
 // Criando a movimentação do player
 	
 //criando varíaveis para checar se estão ou não apertando o botão
-var up, down, left, right, shield;
+var up, down, left, right; 
 up = keyboard_check(ord("W"));
 down = keyboard_check(ord("S"));
 left = keyboard_check(ord("A"));
 right = keyboard_check(ord("D"));
-shield = keyboard_check_pressed(ord("E"));
-
 //movendo o y com base no resultado da conta dos booleans
 y += (down - up) * velocidade;
 //movendo o x com base no restultado da conta dos booleans
@@ -47,11 +45,7 @@ if(keyboard_check_pressed(vk_right)){
 	}
 }
 
-if(shield && escudow > 0){
-	var escudo = instance_create_layer(x,y, "Escudo", obj_escudo)
-	escudo.alvo = id;
-	escudow--;
-}
+cria_escudo();
 
 //colocando o player na tela
 if(x <= 64) x = 64;

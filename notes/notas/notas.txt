@@ -151,7 +151,25 @@
 	14.6 - Criando o ScreenShake sempre que um inimigo for destruido - pronto;
 	14.7 - Criando um ScreenShake para o player;
 
+15 - Boss - 960 e 512;
+	15.1 - Importando as sprites do boss - pronto;
+	15.2 - Criando o boss - pronto;	
+	15.3 - Criando os estados do boss
+		15.3.1 - Estado 1 - pronto;
+		15.3.2 - Estado 2 - pronto;
+		15.3.3 - Estado 3 - pronto;
+		15.3.4 - Estado 4 - pronto;
+	15.4 - Iniciando as variáveis de vida - pronto;
+	15.5 - Exibindo a vida do boss - pronto;
+	15.6 - Tirando vida do boss;
+	15. - Vários estados - pronto
+	15. - fase invulnerável com recuperação de vida - pronto
+	15.7 - fazer o control criar o boss - ;
 	
+16 - Animação da chegada do boss
+	16.1 - Animação de chegada do boss - pronto; 
+	16.2 - Animação de morte do boss - pronto; 
+	16.3 - Animação de fim de level - ;
 
 Pequenos ajuster 01
 	Inimigo se destruir ao sair da tela - pronto; 
@@ -167,4 +185,8 @@ Ajustes Gerais 02
 	Impedindo o player saindo ta tela - pronto;
 	Fazendo os inimigos doprarem o item depois de certa posição - pronto; 
 	Ganhando nivel de forma mais rápida - pronto;
-	Ganhar pontos caso o player pegue o powerUp e já esteja no máximo - 
+	Ganhar pontos caso o player pegue o powerUp e já esteja no máximo - pronto;
+	Impedindo que o player crie mais de 1 escudo por vez - pronto;
+	Impedindo que o player leve dano para tiros com escudo - pronto;
+	
+	

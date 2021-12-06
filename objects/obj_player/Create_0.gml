@@ -1,4 +1,5 @@
 // Iniciando as variáveis 
+escudao = noone;
 
 escudow = 3;
 
@@ -95,11 +96,24 @@ level_up = function(_chance, _color){
 	
 perde_vida = function(){
 	if(vida > 0){
+		if(!escudao){
 		vida -= 1;
 		screenshake(5);
+		}
 	}else{
 		screenshake(25);
 		instance_destroy();
+	}
+}
+	
+cria_escudo = function(){
+	var shield = keyboard_check_pressed(ord("E"));
+	
+	if(shield && escudow > 0 && !escudao){
+		var escudo = instance_create_layer(x,y, "Escudo", obj_escudo)
+		escudo.alvo = id;
+		escudao = escudo;
+		escudow--;
 	}
 }
 
