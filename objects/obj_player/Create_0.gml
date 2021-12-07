@@ -1,3 +1,7 @@
+//arrumando o tamanho
+image_xscale = image_xscale * 2;
+image_yscale = image_yscale * 2;
+
 // Iniciando as variáveis 
 escudao = noone;
 

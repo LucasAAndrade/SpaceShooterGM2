@@ -1,0 +1,3 @@
+//Variáveis
+
+//aumentando a escala

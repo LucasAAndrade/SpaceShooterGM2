@@ -1,13 +1,10 @@
 //variável para tiro
-brilho = spr_brilho2
+brilho = spr_brilho2;
 
 //Variáveis do tiro
 
-vspeed = -15;
+vspeed = -13;
 
-// variáveis de efeito
-image_xscale = 3;
-image_yscale = 3;
-//inicializando um alarm
-//alarm[0] = 4;
-
+//arrumando o tamanho
+image_xscale = image_xscale * 3;
+image_yscale = image_yscale * 3;

@@ -77,8 +77,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Player_FAR",
+    "path": "folders/Sprites/Player_FAR.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_escudo",

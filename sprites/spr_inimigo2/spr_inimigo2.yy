@@ -81,8 +81,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Inimigos_FAR",
+    "path": "folders/Sprites/Inimigos_FAR.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_inimigo2",

@@ -85,8 +85,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Etc",
-    "path": "folders/Sprites/Etc.yy",
+    "name": "EtcFar",
+    "path": "folders/Sprites/EtcFar.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_impacto_tiro_player",
