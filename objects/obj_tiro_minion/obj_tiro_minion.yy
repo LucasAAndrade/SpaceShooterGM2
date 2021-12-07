@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_sprite_tiro2",
-    "path": "sprites/spr_sprite_tiro2/spr_sprite_tiro2.yy",
+    "name": "spr_tiro_inimigo",
+    "path": "sprites/spr_tiro_inimigo/spr_tiro_inimigo.yy",
   },
   "solid": false,
   "visible": true,

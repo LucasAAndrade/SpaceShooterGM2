@@ -7,3 +7,7 @@ instance_destroy();
 
 x = alvo.x;
 y = alvo.y;
+
+if(tempo >= 15){
+instance_destroy();
+}

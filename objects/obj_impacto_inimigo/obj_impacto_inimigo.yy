@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_impacto_inimigo1",
-    "path": "sprites/spr_impacto_inimigo1/spr_impacto_inimigo1.yy",
+    "name": "spr_explosao1",
+    "path": "sprites/spr_explosao1/spr_explosao1.yy",
   },
   "solid": false,
   "visible": true,

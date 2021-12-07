@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_impacto_tiro_player",
-    "path": "sprites/spr_impacto_tiro_player/spr_impacto_tiro_player.yy",
+    "name": "spr_explosaoTiro",
+    "path": "sprites/spr_explosaoTiro/spr_explosaoTiro.yy",
   },
   "solid": false,
   "visible": true,

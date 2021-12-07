@@ -1,10 +1,13 @@
 //Variáveeis do tiro do inimigo
 
+//arrumando o tamanho
+image_xscale = image_xscale * 5;
+image_yscale = image_yscale * 5;
+
 vspeed = 6;
 
-// variáveis de efeito
-image_xscale = 12;
-image_yscale = 4;
+
+
 //inicializando um alarm
 //alarm[0] = 4;
 

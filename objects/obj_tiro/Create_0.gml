@@ -2,7 +2,6 @@
 brilho = spr_brilho2;
 
 //Variáveis do tiro
-
 vspeed = -13;
 
 //arrumando o tamanho

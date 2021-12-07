@@ -48,10 +48,10 @@ if(keyboard_check_pressed(vk_right)){
 cria_escudo();
 
 //colocando o player na tela
-if(x <= 64) x = 64;
-if(x >= 1856) x = 1856;
-if(y <= 64) y = 64;
-if(y >= 1024) y = 1024;
+if(x <= 800) x = 800;
+if(x >= 1184) x = 1184;
+if(y <= 218) y = 218;
+if(y >= 860) y = 860;
 
 show_debug_message(level_tiro);
 show_debug_message(espera_tiro);

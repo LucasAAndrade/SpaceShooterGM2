@@ -15,7 +15,7 @@ function ganhando_pontos(_pontos){
 function destroi_seq(){
 	var elementos = layer_get_all_elements("Boss_entrada");
 	layer_sequence_destroy(elementos[0]);
-	instance_create_layer(960, 300,"Boss", obj_boss);
+	instance_create_layer(992, 256,"Boss", obj_boss);
 }
 
 function cria_seq(){

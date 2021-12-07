@@ -12,14 +12,21 @@ player_vivo = false;
 alarm[0] = room_speed;
 
 //variável level
-level = 10;
+level = 1;
 
 //Iniciando o sistema de pontos
 pontos = 0;
 
 //quantos pontos são necessários para o proximo level
-proximo_level = 1;
-
+proximo_level = 50;
+/*
+50
+100
+200
+400
+800
+1600
+*/
 //controle boss
 criar_boss = true;
 
@@ -39,9 +46,9 @@ pontos += _ponts * level;
 //Criando o método para criar inimigos
 cria_inimigo = function(){
 	//criando valores aleatórios para o x e y	
-	var x1 = irandom_range(64, 1888); 
+	var x1 = irandom_range(800, 1184); 
 	//aumentando o meu limite com base no level 
-	var y1 = irandom_range(-96, -1504 - (level * 700)); 
+	var y1 = irandom_range(150, -500 - (level * 100)); 
 	
 	//criando o inimigo com base no level
 	var chance = random_range(0, level)

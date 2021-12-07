@@ -1,12 +1,9 @@
-/// @description 
+image_index++;
 
-image_index--;
 
-image_alpha -= 0.2;
-
-if(image_index < 0){
-	instance_destroy();
+/*if(image_index < 0){
 	
-}
+	image_index = 10;
+}*/
 
-alarm[0] = room_speed * 2
+alarm[0] = room_speed/20

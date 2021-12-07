@@ -1,9 +1,13 @@
 //vida
-vida_max = 2000;
-vida_atual = vida_max/2;
+vida_max = 500;
+vida_atual = vida_max;
+
+//mudando sua escala
+image_xscale = image_xscale *2;
+image_yscale = image_yscale *2;
 
 //Definindo os estados
-estado_atual = choose("estado 4");
+estado_atual = choose("estado 2");
 
 //tempo de espera do tiro
 delay_tiro = room_speed/ 1.5;
@@ -31,7 +35,7 @@ estado_01 = function(){
 estado_02 = function(){
 	//movimentação dele
 	x += velocidade_horizontal;
-	if(x >= 1632 || x <= 288)
+	if(x >= 1184 || x <= 800)
 	{
 		velocidade_horizontal *= -1;
 	}
@@ -65,9 +69,9 @@ estado_04 = function(){
 	x += sign(room_width/2 -x)
 	
 	if(criei_minions == true){
-		var _minion = instance_create_layer(96,608, "Inimigos", obj_boss_minion);
+		var _minion = instance_create_layer(800,480, "Inimigos", obj_boss_minion);
 		_minion.image_angle = 90;
-		var _minion =instance_create_layer(1824,608, "Inimigos", obj_boss_minion);
+		var _minion =instance_create_layer(1184,480, "Inimigos", obj_boss_minion);
 		_minion.image_angle = 270;
 		criei_minions = false;
 	}

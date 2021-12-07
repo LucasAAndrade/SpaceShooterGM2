@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 563,
-  "bbox_top": 0,
-  "bbox_bottom": 308,
+  "bbox_left": 27,
+  "bbox_right": 325,
+  "bbox_top": 30,
+  "bbox_bottom": 224,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 564,
-  "height": 432,
+  "width": 350,
+  "height": 225,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,15 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c7f60d92-54fc-4fc8-bd3b-e5b1c1e47722","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c7f60d92-54fc-4fc8-bd3b-e5b1c1e47722","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":{"name":"785aec37-aec9-4260-9036-e13b20ad17f6","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_boss_combate","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"c7f60d92-54fc-4fc8-bd3b-e5b1c1e47722","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5a847597-57a1-4fff-bc67-a2d6566a5e9d","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5a847597-57a1-4fff-bc67-a2d6566a5e9d","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":{"name":"785aec37-aec9-4260-9036-e13b20ad17f6","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_boss_combate","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"5a847597-57a1-4fff-bc67-a2d6566a5e9d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d9d87263-6d97-4d69-965c-0ae5d22d0de4","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d9d87263-6d97-4d69-965c-0ae5d22d0de4","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":{"name":"785aec37-aec9-4260-9036-e13b20ad17f6","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_boss_combate","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"d9d87263-6d97-4d69-965c-0ae5d22d0de4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f78ab4ec-929d-412e-b6f6-35abe5572db5","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f78ab4ec-929d-412e-b6f6-35abe5572db5","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":{"name":"d6e927e6-e1b4-4e3e-84a9-20a69c048ca5","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_boss_combate","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"f78ab4ec-929d-412e-b6f6-35abe5572db5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1cfb7cd0-b8a1-4ff4-8bf2-aba529e4f08e","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1cfb7cd0-b8a1-4ff4-8bf2-aba529e4f08e","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"LayerId":{"name":"d6e927e6-e1b4-4e3e-84a9-20a69c048ca5","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_boss_combate","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","name":"1cfb7cd0-b8a1-4ff4-8bf2-aba529e4f08e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_boss_combate","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},
@@ -42,14 +39,13 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 3.0,
+    "length": 2.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"70e81648-297b-4224-8744-c490f1f41ee5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c7f60d92-54fc-4fc8-bd3b-e5b1c1e47722","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"8afdb205-8fb7-4ec7-af78-3260509ca62f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5a847597-57a1-4fff-bc67-a2d6566a5e9d","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"75f53afb-0520-4bb3-af68-f1a9575d02fc","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d9d87263-6d97-4d69-965c-0ae5d22d0de4","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"50b4cf08-772c-4d8d-9dfe-39785f903c5c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f78ab4ec-929d-412e-b6f6-35abe5572db5","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e2255e58-4268-4d75-baa9-a3215c86a6b9","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1cfb7cd0-b8a1-4ff4-8bf2-aba529e4f08e","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -62,8 +58,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 282,
-    "yorigin": 216,
+    "xorigin": 175,
+    "yorigin": 112,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_boss_combate","path":"sprites/spr_boss_combate/spr_boss_combate.yy",},
@@ -73,7 +69,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"785aec37-aec9-4260-9036-e13b20ad17f6","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d6e927e6-e1b4-4e3e-84a9-20a69c048ca5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

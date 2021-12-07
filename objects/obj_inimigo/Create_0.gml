@@ -1,6 +1,13 @@
 //variável de pontos
 ponts = 10;
 
+//arrumando o tamanho
+image_xscale = image_xscale * 2.5;
+image_yscale = image_yscale * 2.5;
+
+//angulação
+image_angle = image_angle + 180;
+
 //Chance de dropar o item é 
 chance1 = 20;
 
