@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"69e2322d-47c5-4e2e-8b4b-4fbf57338287","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"69e2322d-47c5-4e2e-8b4b-4fbf57338287","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"LayerId":{"name":"5e0de33b-ccc7-4ab8-82ed-383f27556a73","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_novoJogo","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"resourceVersion":"1.0","name":"69e2322d-47c5-4e2e-8b4b-4fbf57338287","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1b24cdb8-89f0-4ecb-8379-2f1266ab13d1","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1b24cdb8-89f0-4ecb-8379-2f1266ab13d1","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"LayerId":{"name":"f318ce66-c4d4-46a1-95c2-bc887e398372","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_novoJogo","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"resourceVersion":"1.0","name":"1b24cdb8-89f0-4ecb-8379-2f1266ab13d1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_novoJogo","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"40599c51-893e-40bf-9135-51f13b99e200","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"69e2322d-47c5-4e2e-8b4b-4fbf57338287","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d6a238b9-6d84-42d5-91f8-c1dcdc0ff9ae","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1b24cdb8-89f0-4ecb-8379-2f1266ab13d1","path":"sprites/spr_novoJogo/spr_novoJogo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5e0de33b-ccc7-4ab8-82ed-383f27556a73","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f318ce66-c4d4-46a1-95c2-bc887e398372","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

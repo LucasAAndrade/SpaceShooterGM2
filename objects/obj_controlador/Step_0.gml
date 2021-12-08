@@ -1,12 +1,12 @@
 //Checando se o player existe 
-if(!instance_exists(obj_player) && !game_over_sec && player_vivo == false){
+if(!instance_exists(obj_player)){
 	//Criando minha sequencia
-	room_goto(rm_far_perdeu);
+	room_goto(rm_farPerdeu)
 	
-	if(pontos > global.potuacao_max)
+	if(pontos > global.pontuacao_max)
 	{
-	global.potuacao_max = pontos;
+		global.pontuacao_max = pontos;
 	}
 }
 
-global.pontos = pontos;
+global.pontuacao = pontos;
