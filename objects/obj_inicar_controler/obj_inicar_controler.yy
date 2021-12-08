@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_powerUpCereja",
-    "path": "sprites/spr_powerUpCereja/spr_powerUpCereja.yy",
+    "name": "spr_menu1",
+    "path": "sprites/spr_menu1/spr_menu1.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,15 +22,16 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Cadernos_telas",
-    "path": "folders/Objects/Cadernos_telas.yy",
+    "name": "TelaFar",
+    "path": "folders/Objects/TelaFar.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_controladorTemp",
+  "name": "obj_inicar_controler",
   "tags": [],
   "resourceType": "GMObject",
 }

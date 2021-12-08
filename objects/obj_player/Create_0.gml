@@ -70,7 +70,7 @@ tiro4 = function(){
 
 
 level_up = function(_chance, _color){
-	if(_chance >= 90){
+	if(_chance >= 170){
 		if(level_tiro < 5){
 		level_tiro++;
 		_color = c_red; 
@@ -78,7 +78,7 @@ level_up = function(_chance, _color){
 			ganhando_pontos(100);
 		}
 	} 
-	else if(_chance >= 45)
+	else if(_chance >= 85)
 	{
 		if(espera_tiro > 15)
 		{

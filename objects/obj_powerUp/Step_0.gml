@@ -1,4 +1,6 @@
 /// @description sair e entrar na room
+image_angle += 1; 
+
 if(x <= 800)
 { 
 	x = 800;

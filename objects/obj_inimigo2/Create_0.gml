@@ -4,7 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-chance1 = 40;
+chance1 = 60;
 
 //criando a variavel de controle para saber se posso mudar de direção
 posso_mudar_de_direcao = true;

@@ -9,7 +9,7 @@ image_yscale = image_yscale * 2.5;
 image_angle = image_angle + 180;
 
 //Chance de dropar o item é 
-chance1 = 20;
+chance1 = 40;
 
 // Variáveis do inimigo
 
