@@ -1,4 +1,10 @@
 if(controlador3 == true){
-draw_set_color(c_blue);
-draw_text_transformed(650, 830, " Não posso perder tempo com uma partidinha", 2, 2, 0)
+draw_set_color(c_white);
+draw_set_font(ft_mario)
+draw_text(790, 830, "Sem tempo para partidinhas")
+//resetando a cor
+draw_set_color(-1);
+
+//resetando a fonte
+draw_set_font(-1);
 }
