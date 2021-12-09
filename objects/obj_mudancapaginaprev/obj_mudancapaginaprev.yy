@@ -30,7 +30,7 @@
     "path": "folders/Objects/Cadernos_telas.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_mudanca_tela",
+  "name": "obj_mudancapaginaprev",
   "tags": [],
   "resourceType": "GMObject",
 }

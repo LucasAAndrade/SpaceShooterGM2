@@ -6,3 +6,4 @@ event_inherited();
 
 grausde = 6;
 
+image_angle = image_angle - global.segundos; 

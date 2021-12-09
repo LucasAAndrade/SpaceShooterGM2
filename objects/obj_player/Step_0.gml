@@ -53,5 +53,3 @@ if(x >= 1184) x = 1184;
 if(y <= 218) y = 218;
 if(y >= 860) y = 860;
 
-show_debug_message(level_tiro);
-show_debug_message(espera_tiro);

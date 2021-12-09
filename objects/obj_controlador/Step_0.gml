@@ -7,6 +7,12 @@ if(!instance_exists(obj_player)){
 	{
 		global.pontuacao_max = pontos;
 	}
+	//mudando de tela
+	if(instance_exists(obj_controleTempo))
+	{
+	global.temporizador = obj_controleTempo.tempinho;
+	}
+
 }
 
 global.pontuacao = pontos;
