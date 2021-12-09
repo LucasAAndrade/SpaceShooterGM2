@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"6b4af09f-ce04-418c-bf97-b1a3decf3120","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6b4af09f-ce04-418c-bf97-b1a3decf3120","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"LayerId":{"name":"3c2f31f6-8d32-4370-a20c-e993a9cf15c2","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cadernoJogo","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"resourceVersion":"1.0","name":"6b4af09f-ce04-418c-bf97-b1a3decf3120","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"56eaa8a3-15d1-4446-a35e-d38a20af01d6","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"56eaa8a3-15d1-4446-a35e-d38a20af01d6","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"LayerId":{"name":"7e273818-4f93-45cd-a80d-05b511381c5d","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_cadernoJogo","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"resourceVersion":"1.0","name":"56eaa8a3-15d1-4446-a35e-d38a20af01d6","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_cadernoJogo","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"771c18f9-5b02-4378-9031-0164466a7edf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b4af09f-ce04-418c-bf97-b1a3decf3120","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"985043f2-99ad-4fcd-b424-95f94b8e99a0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"56eaa8a3-15d1-4446-a35e-d38a20af01d6","path":"sprites/spr_cadernoJogo/spr_cadernoJogo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3c2f31f6-8d32-4370-a20c-e993a9cf15c2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7e273818-4f93-45cd-a80d-05b511381c5d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

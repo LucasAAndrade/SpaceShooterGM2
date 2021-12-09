@@ -1,0 +1,1 @@
+impar = (valor mod 2);

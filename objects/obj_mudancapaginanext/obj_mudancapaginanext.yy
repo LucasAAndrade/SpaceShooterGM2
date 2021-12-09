@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_powerUpCereja",
-    "path": "sprites/spr_powerUpCereja/spr_powerUpCereja.yy",
+    "name": "spr_mudarPaginaright",
+    "path": "sprites/spr_mudarPaginaright/spr_mudarPaginaright.yy",
   },
   "solid": false,
   "visible": true,

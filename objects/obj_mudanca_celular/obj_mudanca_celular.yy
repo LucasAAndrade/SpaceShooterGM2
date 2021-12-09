@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_powerUpCereja",
-    "path": "sprites/spr_powerUpCereja/spr_powerUpCereja.yy",
+    "name": "spr_celulasTronco",
+    "path": "sprites/spr_celulasTronco/spr_celulasTronco.yy",
   },
   "solid": false,
   "visible": true,
