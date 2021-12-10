@@ -1,11 +1,11 @@
 //
 if(impar = 0)
 {
-sprite_index = spr_xizinho;
-global.cao =false;
+image_alpha = 1;
+global.cao = true;
 valor++;
 }else{
-sprite_index = spr_certinho;
-global.cao =true;
+image_alpha = 0;
+global.cao = false;
 valor +=1;
 }

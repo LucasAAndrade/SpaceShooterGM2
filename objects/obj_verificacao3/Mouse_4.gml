@@ -1,11 +1,11 @@
 //
 if(impar = 0)
 {
-sprite_index = spr_xizinho;
-global.penguin =false;
+image_alpha = 0;
+global.penguin =true;
 valor++;
 }else{
-sprite_index = spr_certinho;
-global.penguin = true;
+image_alpha = 1;
+global.penguin = false;
 valor +=1;
 }

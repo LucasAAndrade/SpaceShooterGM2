@@ -26,3 +26,11 @@ function cria_seq(){
 		obj_controlador.player_vivo = true;
 	}
 }
+
+function comecou(){
+	room_goto(rm_caderno1);
+}
+
+function acabou(){
+	game_end();
+}

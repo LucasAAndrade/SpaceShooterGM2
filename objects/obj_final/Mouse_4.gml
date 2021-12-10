@@ -1,17 +1,13 @@
 if(global.cao == true && global.penguin == false && global.picaPau == false){
 
-show_message("ganhou")
+layer_sequence_create("Sequences",x,y, sq_vitoria1);
 }
 
-if(global.cao == false){
 
-show_message("perdeu")
-}
 if(global.picaPau == true){
 
-show_message("perdeu")
+layer_sequence_create("Sequences",x,y, sq_vitoria17);
 }
 if(global.penguin == true){
-
-show_message("perdeu")
+layer_sequence_create("Sequences",x,y, sq_vitoria3);
 }

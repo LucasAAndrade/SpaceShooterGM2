@@ -3,4 +3,6 @@ valor = 0;
 
 impar = false;
 
-global.penguin = true;
+global.penguin = false;
+
+image_alpha = 0;

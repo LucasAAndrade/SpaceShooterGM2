@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_polaroidcachorro",
+    "path": "sprites/spr_polaroidcachorro/spr_polaroidcachorro.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "SpcShooter",
-    "path": "SpcShooter.yyp",
+    "name": "Cadernos_telas",
+    "path": "folders/Objects/Cadernos_telas.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object40",
+  "name": "obj_polaroid3",
   "tags": [],
   "resourceType": "GMObject",
 }

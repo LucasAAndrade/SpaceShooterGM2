@@ -1,11 +1,11 @@
 //
 if(impar = 0)
 {
-sprite_index = spr_xizinho;
-global.picaPau =false;
+image_alpha = 1;
+global.picaPau = true;
 valor++;
 }else{
-sprite_index = spr_certinho;
+image_alpha = 0;
 global.picaPau =false;
 valor +=1;
 }
