@@ -1,13 +1,13 @@
-if(global.cao == true && global.penguin == false && global.picaPau == false){
+if(global.cao == true){
 
-layer_sequence_create("Sequences",x,y, sq_vitoria1);
+layer_sequence_create("Sequences",0,0, sq_vitoria1);
 }
-
 
 if(global.picaPau == true){
 
-layer_sequence_create("Sequences",x,y, sq_vitoria17);
+layer_sequence_create("Sequences",0,0, sq_vitoria17);
 }
 if(global.penguin == true){
-layer_sequence_create("Sequences",x,y, sq_vitoria3);
+
+layer_sequence_create("Sequences",0,0, sq_vitoria3);
 }

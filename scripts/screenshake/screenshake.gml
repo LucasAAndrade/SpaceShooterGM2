@@ -29,8 +29,15 @@ function cria_seq(){
 
 function comecou(){
 	room_goto(rm_caderno1);
+	audio_play_sound(snd_main,1,true);
+
+}
+function parar(){
+	
+audio_stop_sound(snd_main);
+
 }
 
-function acabou(){
+/*function acabou(){
 	game_end();
-}
+}*/

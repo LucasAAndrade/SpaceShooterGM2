@@ -4,6 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
-image_angle = image_angle - global.minutos;
+image_angle = image_angle - global.minutos - 260;
 
 grausde = 0.1;
